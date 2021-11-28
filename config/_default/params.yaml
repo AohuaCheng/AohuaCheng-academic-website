@@ -20,18 +20,18 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: aohuacheng18@gmail.com
+phone: +86 186 3907 5297
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Tsinghua University
+  city: Beijing
+  region: Beijing
+  postcode: '100084'
+  country: China
+  country_code: CN
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: '40.0000'
+  longitude: '116.3264'
 directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
   - 'Monday 10:00 to 13:00'
@@ -58,12 +58,21 @@ contact_links:
 # Site header
 
 main_menu:
-  enable: true
+  # Display the navigation bar?
+  enable: False
+  # Align menu links: left (l), center (c), or right (r)
   align: l
+  # Display your site title or `assets/media/logo*` image in the nav bar?
   show_logo: true
-  show_language: false
+  # Show a language chooser (if you have translated your site content)?
+  show_translations: true
+  # If `show_translations` is enabled, do you wish to display the current language name?
+  show_language: true
+  # Let the user override the default light/dark mode of your theme?
   show_day_night: true
+  # Let the user search from the nav bar?
   show_search: true
+  # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
   highlight_active_link: true
 
 # Localization
