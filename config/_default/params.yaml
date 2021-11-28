@@ -32,10 +32,10 @@ address:
 coordinates:
   latitude: '40.0000'
   longitude: '116.3264'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+directions: Zijing Building 7 and take the stairs to Office 505 on Floor 5
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+  - 'Monday 10:00 to 12:00 UTC+8'
+  - 'Wednesday 10:00 to 12:00 UTC+8'
 appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
