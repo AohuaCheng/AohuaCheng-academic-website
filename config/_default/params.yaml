@@ -59,7 +59,7 @@ contact_links:
 
 main_menu:
   # Display the navigation bar?
-  enable: False
+  enable: true
   # Align menu links: left (l), center (c), or right (r)
   align: l
   # Display your site title or `assets/media/logo*` image in the nav bar?
