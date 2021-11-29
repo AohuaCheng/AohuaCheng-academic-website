@@ -67,6 +67,5 @@ highlight_name: true
 
 Aohua Cheng is a undergraduate of Engineering Mechanics at Tsinghua Tsien Excellent in Engineeering Program. His research interests include synaptic plasticity, neuromorphic computation, thermodynamics, informatics and medical robotics. He develops autonomous intubation robot, biologically feasible network, and RNNs model of multi-modalities.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
