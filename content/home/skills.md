@@ -40,10 +40,6 @@ feature:
   icon: tennis-ball
   icon_pack: fas
   name: Tennis 
-- description: 3.0
-  icon: tennis-ball
-  icon_pack: fas
-  name: Tennis 
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
