@@ -37,8 +37,8 @@ feature:
   icon_pack: ai
   name: Overleaf
 - description: ''
-  icon: tennis-ball
-  icon_pack: 'custom'
+  icon: baseball-ball
+  icon_pack: fas
   name: Tennis 3.0
 
 # Uncomment to use emoji icons.
