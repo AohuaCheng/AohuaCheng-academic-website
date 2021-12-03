@@ -1,5 +1,9 @@
 ---
 title: Autonomous Intubation Robot System based on Visual Servoing and Hybrid Control
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# and it will be replaced with their full name and linked to their profile.
 abstract: During COVID-19 and other pandemics, endotracheal intubation is an
   effective and common method to save patients as the virus causes lung fibrosis
   and thus patients are unable to breathe spontaneously. Medical staff need to
@@ -20,6 +24,14 @@ abstract: During COVID-19 and other pandemics, endotracheal intubation is an
   applications and extend the developed techniques in other general treatments.
 slides: AIRS
 url_pdf: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2021-08-03T00:00:00Z"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
 publication_types:
   - "3"
 authors:
@@ -32,20 +44,36 @@ authors:
   - Xi Wu
   - Zhe Guo
   - Gangtie Zheng
+
+# Author notes (optional)
+author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+
 url_dataset: ""
 url_project: ""
 publication_short: In *IEEE TMRB*
 url_source: ""
 url_video: https://www.techrxiv.org/articles/preprint/Autonomous_Intubation_Robot_System_based_on_Visual_Servoing_and_Hybrid_Control/15087696?file=29008536
-author_notes: null
+
 doi: ""
+
+# Publication name and optional abbreviated publication name.
 publication: IEEE Transactions on Medical Robotics and Bionics
+publication_short: In *IEEE TMRB*
+
 featured: true
 tags:
   - robot to combat COVID-19
   - endotracheal intubation
   - visual servoing
   - hybrid control
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
 projects:
   - AIRS
 image:
@@ -58,6 +86,12 @@ url_slides: ""
 publishDate: 2021-08-03T00:00:00Z
 url_poster: ""
 url_code: ""
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
 ---
 
 {{% callout note %}}
