@@ -23,14 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.csh-asia.org/?content/1159
-  date_end: "2021-08-22"
+- certificate_url: https://cloud.tsinghua.edu.cn/f/0f592d6d268f4f53a375/
+  date_end: ""
   date_start: "2021-08-09"
   description: "Introduced state-of-the-art methods in AI, machine learning, and statistical analysis as applied to key issues in computation and cognitive neuroscience"
   organization: Cold Spring Harbor Asia
   organization_url: https://www.csh-asia.org/
   title: AI and Brain Computation
-  url: ""
+  url: "https://www.csh-asia.org/?content/1159"
 - certificate_url: https://www.comap-math.com/mcm/2021Certs/2111495.pdf
   date_end: ""
   date_start: "2021-02-01"
@@ -40,22 +40,6 @@ Asian Giant Hornet Based on Public Report"
   organization_url: https://www.comap.com/
   title: Mathematical Contest in Modeling
   url: "https://www.comap.com/undergraduate/contests/mcm/"
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
 
 design:
   columns: '2' 
