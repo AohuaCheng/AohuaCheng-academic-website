@@ -36,14 +36,14 @@ publication_types:
   - "3"
 authors:
   - admin
-  - Yike Qiu
-  - Han Hao
-  - Yizhou Xu
-  - Yuxuan Nie
-  - Yuhua Jiang
-  - Xi Wu
-  - Zhe Guo
-  - Gangtie Zheng
+  # - Yike Qiu
+  # - Han Hao
+  # - Yizhou Xu
+  # - Yuxuan Nie
+  # - Yuhua Jiang
+  # - Xi Wu
+  # - Zhe Guo
+  # - Gangtie Zheng
 
 # Author notes (optional)
 author_notes:
