@@ -17,17 +17,29 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
+  icon: python
   icon_pack: fab
-  name: R
+  name: Python
+- description: CNN, RNN, RL
+  icon: chart-network
+  icon_pack: fas
+  name: Nerual network
+- description: 90%
+  icon: git-alt
+  icon_pack: fab
+  name: Git
+- description: 80%
+  icon: linux
+  icon_pack: fab
+  name: Linux
 - description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  icon: overleaf
+  icon_pack: ai
+  name: Overleaf
+- description: 100%
+  icon: markdown
+  icon_pack: fab
+  name: Markdown
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
