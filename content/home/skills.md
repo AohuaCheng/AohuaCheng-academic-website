@@ -16,30 +16,30 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: ''
   icon: python
   icon_pack: fab
   name: Python
-- description: CNN, RNN, RL
-  icon: chart-network
+- description: 
+  icon: brain
   icon_pack: fas
-  name: Nerual network
-- description: 90%
+  name: Nerual networks
+- description: ''
   icon: git-alt
   icon_pack: fab
   name: Git
-- description: 80%
+- description: ''
   icon: linux
   icon_pack: fab
   name: Linux
-- description: 100%
+- description: ''
   icon: overleaf
   icon_pack: ai
   name: Overleaf
-- description: 3.0
+- description: ''
   icon: tennis-ball
-  icon_pack: fas
-  name: Tennis 
+  icon_pack: 'custom'
+  name: Tennis 3.0
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
