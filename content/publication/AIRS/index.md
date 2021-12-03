@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Autonomous Intubation Robot System based on Visual Servoing and Hybrid Control"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -24,7 +24,7 @@ date: "2021-08-03T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-08-03T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -41,7 +41,7 @@ abstract: During COVID-19 and other pandemics, endotracheal intubation is an eff
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: ['robot to combat COVID-19']
+tags: ['robot to combat COVID-19','endotracheal intubation', 'visual servoing', 'hybrid control']
 
 # Display this page in the Featured widget?
 featured: true
@@ -51,7 +51,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.techrxiv.org/articles/preprint/Autonomous_Intubation_Robot_System_based_on_Visual_Servoing_and_Hybrid_Control/15087696?file=29008449'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -63,7 +63,7 @@ url_video: 'https://www.techrxiv.org/articles/preprint/Autonomous_Intubation_Rob
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -73,14 +73,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+- AIRS
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: AIRS
 ---
 
 {{% callout note %}}
