@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant in Guangyu Robert Yang's Lab
+  - title: Research Assistant in Prof. Guangyu Robert Yang's Lab
     company: Massachusetts Institute of Technology
     company_url: ''
     company_logo: org-MIT
