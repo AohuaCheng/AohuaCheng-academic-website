@@ -22,8 +22,8 @@ abstract: During COVID-19 and other pandemics, endotracheal intubation is an
   under a 2-min operation. Our proposed robot is original and promising in the
   area of emergent medical robots. We will further validate AIRS in clinical
   applications and extend the developed techniques in other general treatments.
+summary: An robotic solution to avoid cross-infection in COVID-19
 slides: AIRS
-url_pdf: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-08-03T00:00:00Z"
@@ -36,20 +36,21 @@ publication_types:
   - "3"
 authors:
   - admin
-  # - Yike Qiu
-  # - Han Hao
-  # - Yizhou Xu
-  # - Yuxuan Nie
-  # - Yuhua Jiang
-  # - Xi Wu
-  # - Zhe Guo
-  # - Gangtie Zheng
+  - Yike Qiu
+  - Han Hao
+  - Yizhou Xu
+  - Yuxuan Nie
+  - Yuhua Jiang
+  - Xi Wu
+  - Zhe Guo
+  - Gangtie Zheng
 
 # Author notes (optional)
 author_notes:
-# - "Equal contribution"
+# - "First author"
 # - "Equal contribution"
 
+url_pdf: ""
 url_dataset: ""
 url_project: ""
 publication_short: In *IEEE TMRB*
@@ -63,11 +64,11 @@ publication: IEEE Transactions on Medical Robotics and Bionics
 publication_short: In *IEEE TMRB*
 
 featured: true
-tags:
-  - robot to combat COVID-19
-  - endotracheal intubation
-  - visual servoing
-  - hybrid control
+tags: []
+  # - robot to combat COVID-19
+  # - endotracheal intubation
+  # - visual servoing
+  # - hybrid control
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
