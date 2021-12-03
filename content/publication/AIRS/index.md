@@ -55,6 +55,9 @@ author_notes:
 url_pdf: ""
 url_dataset: ""
 url_project: ""
+url_slides: ""
+url_poster: ""
+url_code: ""
 publication_short: In *IEEE TMRB*
 url_source: ""
 url_video: https://www.techrxiv.org/articles/preprint/Autonomous_Intubation_Robot_System_based_on_Visual_Servoing_and_Hybrid_Control/15087696?file=29008536
@@ -69,6 +72,7 @@ tags: [Medical Robotics]
 
 # Display this page in the Featured widget?
 featured: true
+
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -81,11 +85,10 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpg
+
 date: 2021-08-03T00:00:00Z
-url_slides: ""
+
 publishDate: 2021-08-03T00:00:00Z
-url_poster: ""
-url_code: ""
 
 # Custom links (uncomment lines below)
 # links:
