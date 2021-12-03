@@ -23,14 +23,23 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+- certificate_url: https://www.csh-asia.org/?content/1159
+  date_end: "2021-08-22"
+  date_start: "2021-08-09"
+  description: "Introduced state-of-the-art methods in AI, machine learning, and statistical analysis as applied to key issues in computation and cognitive neuroscience"
+  organization: Cold Spring Harbor Asia
+  organization_url: https://www.csh-asia.org/
+  title: AI and Brain Computation
   url: ""
+- certificate_url: https://www.comap-math.com/mcm/2021Certs/2111495.pdf
+  date_end: ""
+  date_start: "2021-02-01"
+  description: "Trained CNN and Proposed a Diffusion Model for
+Asian Giant Hornet Based on Public Report"
+  organization: COMAP
+  organization_url: https://www.comap.com/
+  title: Mathematical Contest in Modeling
+  url: "https://www.comap.com/undergraduate/contests/mcm/"
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2021-01-01"
