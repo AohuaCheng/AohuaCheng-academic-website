@@ -4,6 +4,22 @@ title: Autonomous Intubation Robot System based on Visual Servoing and Hybrid Co
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
+authors:
+  - admin
+  # - Yike Qiu
+  # - Han Hao
+  # - Yizhou Xu
+  # - Yuxuan Nie
+  # - Yuhua Jiang
+  # - Xi Wu
+  # - Zhe Guo
+  # - Gangtie Zheng
+
+# Author notes (optional)
+author_notes:
+# - "First author"
+# - "Equal contribution"
+
 abstract: During COVID-19 and other pandemics, endotracheal intubation is an
   effective and common method to save patients as the virus causes lung fibrosis
   and thus patients are unable to breathe spontaneously. Medical staff need to
@@ -25,8 +41,8 @@ abstract: During COVID-19 and other pandemics, endotracheal intubation is an
 
 # Summary. An optional shortened abstract.
 summary: An robotic solution to avoid cross-infection in COVID-19
-slides: AIRS
 
+date: 2021-08-03T00:00:00Z
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-08-03T00:00:00Z"
 
@@ -36,21 +52,6 @@ publishDate: "2021-08-03T00:00:00Z"
 # 7 = Thesis; 8 = Patent
 publication_types:
   - "3"
-authors:
-  - admin
-  - Yike Qiu
-  - Han Hao
-  - Yizhou Xu
-  - Yuxuan Nie
-  - Yuhua Jiang
-  - Xi Wu
-  - Zhe Guo
-  - Gangtie Zheng
-
-# Author notes (optional)
-author_notes:
-# - "First author"
-# - "Equal contribution"
 
 url_pdf: ""
 url_dataset: ""
@@ -58,7 +59,6 @@ url_project: ""
 url_slides: ""
 url_poster: ""
 url_code: ""
-publication_short: In *IEEE TMRB*
 url_source: ""
 url_video: https://www.techrxiv.org/articles/preprint/Autonomous_Intubation_Robot_System_based_on_Visual_Servoing_and_Hybrid_Control/15087696?file=29008536
 
@@ -68,11 +68,12 @@ doi: ""
 publication: IEEE Transactions on Medical Robotics and Bionics
 publication_short: In *IEEE TMRB*
 
-tags: [Medical Robotics]
+tags: []
 
 # Display this page in the Featured widget?
 featured: true
 
+slides: AIRS
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -85,10 +86,6 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-
-date: 2021-08-03T00:00:00Z
-
-publishDate: 2021-08-03T00:00:00Z
 
 # Custom links (uncomment lines below)
 # links:
