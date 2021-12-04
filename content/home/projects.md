@@ -29,6 +29,8 @@ content:
     tag: '*'
   - name: Medical Robotics
     tag: Medical Robotics
+  - name: Biophysics
+    tag: Biophysics
   - name: Other
     tag: Demo
 
