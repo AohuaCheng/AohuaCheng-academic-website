@@ -1,9 +1,7 @@
 ---
 title: Multi-modality ANN’s model of flexible working memory
 
-summary: Inspired by ANN recent achievements of multi-task training in neuroscience, this project is building a systematic NN
-model to understand the flexibility of Working Memory (WM). Different from previous work on WM, our model can
-conduct delay-match or N-back tasks from a few modalities, like vison, auditory, text, etc.
+summary: Inspired by ANN recent achievements of multi-task training in neuroscience, this project is building a systematic NN model to understand the flexibility of Working Memory (WM). Different from previous work on WM, our model can conduct delay-match or N-back tasks from a few modalities, like vison, auditory, text, etc.
 tags:
   - Bio-inpired Networks
 
