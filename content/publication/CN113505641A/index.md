@@ -36,7 +36,7 @@ publication_types: ["8"]
 publication: Chinese Patent
 publication_short: In *CN Patent*
 
-abstract: "The invention belongs to the technical field of automatic control, and relates to a method for identifying and positioning a human mouth by a robot. The invention identifies and positions key characteristic points of the human face through the depth color image, further calculates and establishes a human mouth coordinate system, calculates the optimal observation position of the camera relative to the human face for active perception, and finally accurately positions the oral cavity space position. The method comprises the following specific steps: acquiring a depth color image of a camera; inputting the color image into an integrated regression tree, and calculating coordinates of the human face characteristic points; coupling the color image and the depth image, and carrying out coordinate transformation to obtain coordinates of the feature points in the camera system; extracting key characteristic points, and calculating to establish a human mouth coordinate system; and moving the mechanical arm according to the optimal observation position of the human mouth coordinate. The method improves the positioning accuracy of the depth camera, and provides a solid foundation for the position judgment, data acquisition and the like of the robot based on the depth camera."
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: 
