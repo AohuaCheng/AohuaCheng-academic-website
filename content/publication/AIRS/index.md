@@ -6,20 +6,19 @@ title: Autonomous Intubation Robot System based on Visual Servoing and Hybrid Co
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
-  # - Yike Qiu
-  # - Han Hao
-  # - Yizhou Xu
-  # - Yuxuan Nie
-  # - Yuhua Jiang
-  # - Xi Wu
-  # - Zhe Guo
-  # - Gangtie Zheng
+  - Yike Qiu
+  - Han Hao
+  - Yizhou Xu
+  - Yuxuan Nie
+  - Yuhua Jiang
+  - Xi Wu
+  - Zhe Guo
+  - Gangtie Zheng
 
 # Author notes (optional)
 author_notes:
-- "First author"
-- "Equal contribution"
+# - "First author"
+# - "Equal contribution"
 
 date: "2021-08-03T00:00:00Z"
 doi: ""
