@@ -16,7 +16,7 @@ authors:
   - Gangtie Zheng
 
 # Author notes (optional)
-author_notes:
+# author_notes:
 # - "First author"
 # - "Equal contribution"
 
