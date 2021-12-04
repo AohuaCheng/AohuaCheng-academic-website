@@ -1,6 +1,58 @@
 ---
 title: Robotic Deployments for No-Touch Patient In-Take
+
+event: ICRA 2021 Workshop on No-Touch Care for Worker Safety During Pandemic Response
+event_url: https://www.purdue.edu/crl/PandemicWorkshop/ICRA21_NoTouchCare.html
+
+location: International Conference on Robotics and Automation 2021
+
+address:
+  street: 450 Serra Mall
+  city: Xi'an
+  region: Shaanxi 
+  postcode: 
+  country: China
+
+summary: 
+
 abstract: 
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2021-06-03T22:00:00.000Z"
+date_end: "2021-06-04T10:30:00.000Z"
+all_day: false
+
+# Schedule page publish date (NOT talk date).
+publishDate: "2021-05-01T00:00:00Z"
+
+authors: []
+
+# Is this a featured talk? (true/false)
+featured: false
+
+
+
+tags: []
+
+image:
+  caption: ""
+  focal_point: Right
+  filename: featured.jpg
+
+links:
+  - url: https://www.purdue.edu/crl/PandemicWorkshop/WorkshopSchedule.html
+    name: ICRA 2021 Workshop on No-Touch Care for Worker Safety During Pandemic
+      Response
+    icon_pack: ai
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects:
+  - AIRS
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -10,46 +62,9 @@ abstract:
 slides: AIRS
 
 url_pdf: ""
-summary: 
-
-location: International Conference on Robotics and Automation
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-06-03T22:00:00.000Z
-date_end: 2021-06-04T10:30:00.000Z
-all_day: false
-event: ICRA 2021 Workshop on No-Touch Care for Worker Safety During Pandemic Response
-event_url: https://www.purdue.edu/crl/PandemicWorkshop/ICRA21_NoTouchCare.html
-featured: false
-authors: []
+url_code: ""
 url_video: ""
 url_slides: ""
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
-links:
-  - url: https://www.purdue.edu/crl/PandemicWorkshop/WorkshopSchedule.html
-    name: ICRA 2021 Workshop on No-Touch Care for Worker Safety During Pandemic
-      Response
-    icon_pack: ai
-publishDate: 2021-05-01T00:00:00Z
-tags: []
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-  - AIRS
-image:
-  caption: ""
-  focal_point: Right
-  filename: featured.jpg
-url_code: ""
 ---
 
 {{% callout note %}}

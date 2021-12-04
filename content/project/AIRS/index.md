@@ -2,26 +2,28 @@
 title: Autonomous Intubation Robot System
 
 summary: An solution to avoid cross-infection in COVID-19.
-url_video: ""
-date: 2021-12-03T07:22:00.826Z
-external_link: ""
-url_slides: ""
-
 tags:
   - Medical Robotics
+
+date: “2021-12-03T07:22:00.826Z”
+external_link: ""
+
+image:
+  caption: photo by our robot lab
+  focal_point: Smart
+  filename: featured.jpg
+  alt_text: operating robot platform in experiments
 links:
   - url: https://www.techrxiv.org/articles/preprint/Autonomous_Intubation_Robot_System_based_on_Visual_Servoing_and_Hybrid_Control/15087696
     name: preprint paper for our work
     icon_pack: ai
   - url: https://www.purdue.edu/crl/PandemicWorkshop/ICRA21_NoTouchCare.html
     name: A workshop in ICRA 2021 we gave a 30-min report
-image:
-  caption: photo by our robot lab
-  focal_point: Smart
-  filename: featured.jpg
-  alt_text: operating robot platform in experiments
+
 url_pdf: ""
 url_code: ""
+url_video: ""
+url_slides: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

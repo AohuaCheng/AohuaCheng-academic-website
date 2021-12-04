@@ -42,7 +42,7 @@ abstract: During COVID-19 and other pandemics, endotracheal intubation is an
 # Summary. An optional shortened abstract.
 summary: An robotic solution to avoid cross-infection in COVID-19
 
-date: 2021-08-03T00:00:00Z
+date: "2021-08-03T00:00:00Z"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-08-03T00:00:00Z"
 
@@ -52,15 +52,6 @@ publishDate: "2021-08-03T00:00:00Z"
 # 7 = Thesis; 8 = Patent
 publication_types:
   - "3"
-
-url_pdf: ""
-url_dataset: ""
-url_project: ""
-url_slides: ""
-url_poster: ""
-url_code: ""
-url_source: ""
-url_video: https://www.techrxiv.org/articles/preprint/Autonomous_Intubation_Robot_System_based_on_Visual_Servoing_and_Hybrid_Control/15087696?file=29008536
 
 doi: ""
 
@@ -73,7 +64,28 @@ tags: []
 # Display this page in the Featured widget?
 featured: true
 
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+  filename: featured.jpg
+
+url_pdf: ""
+url_dataset: ""
+url_project: ""
+url_slides: ""
+url_poster: ""
+url_code: ""
+url_source: ""
+url_video: https://www.techrxiv.org/articles/preprint/Autonomous_Intubation_Robot_System_based_on_Visual_Servoing_and_Hybrid_Control/15087696?file=29008536
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
 slides: AIRS
+
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -81,11 +93,6 @@ slides: AIRS
 #   Otherwise, set `projects: []`.
 projects:
   - AIRS
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-  filename: featured.jpg
 
 # Custom links (uncomment lines below)
 # links:
