@@ -1,9 +1,14 @@
 ---
 title: Nerual Morphological development for brain modeling and neuromorphic learning
 
-summary: 
+summary: Here we present a unified and analytical framework of neural morphological dynamics, covering the main biophysical
+processes underlying synapse development. Moreover, an integrated framework is designed to realize the dynamic
+coupling between our system and the training process of artificial neural networks (ANNs). Such a framework guides
+neural population development by learning process and trains ANNs with biophysical mechanisms, serving as a
+promising technique to design neural morphological computation and learning architectures.
 tags:
   - Biophysics
+  - Bio-inspired Networks
 
 date: “2021-12-03T07:22:00.826Z”
 external_link: ""
