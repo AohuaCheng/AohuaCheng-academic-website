@@ -31,8 +31,8 @@ content:
     tag: Medical Robotics
   - name: Biophysics
     tag: Biophysics
-  - name: Bio-inspried Networks
-    tag: Bio-inspried Networks
+  - name: Bio-inspired Networks
+    tag: Bio-inspired Networks
   - name: Other
     tag: Demo
 
