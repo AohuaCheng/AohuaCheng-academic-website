@@ -56,10 +56,7 @@ abstract: During COVID-19 and other pandemics, endotracheal intubation is an
   applications and extend the developed techniques in other general treatments.
 
 # Summary. An optional shortened abstract.
-summary: During COVID-19, endotracheal intubation is an effective and common method to save patients as the virus causes lung
-fibrosis and thus patients are unable to breathe spontaneously. Medical staff need to insert a tube close to the patient’s
-mouth, thereby leading to a high risk of cross-infection. To protect medical staff, we proposed an autonomous intubation
-robot system (AIRS) based on visual navigation and hybrid control.
+summary: During COVID-19, endotracheal intubation is an effective and common method to save patients as the virus causes lung fibrosis and thus patients are unable to breathe spontaneously. Medical staff need to insert a tube close to the patient’s mouth, thereby leading to a high risk of cross-infection. To protect medical staff, we proposed an autonomous intubation robot system (AIRS) based on visual navigation and hybrid control.
 
 tags: [Medical Robotics]
 
