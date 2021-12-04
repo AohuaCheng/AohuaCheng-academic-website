@@ -6,6 +6,7 @@ title: Autonomous Intubation Robot System based on Visual Servoing and Hybrid Co
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Robert Ford
   # - Yike Qiu
   # - Han Hao
   # - Yizhou Xu
@@ -17,8 +18,24 @@ authors:
 
 # Author notes (optional)
 author_notes:
-# - "First author"
-# - "Equal contribution"
+- "First author"
+- "Equal contribution"
+
+date: "2021-08-03T00:00:00Z"
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2021-08-03T00:00:00Z"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["3"]
+
+# Publication name and optional abbreviated publication name.
+publication: IEEE Transactions on Medical Robotics and Bionics
+publication_short: In *IEEE TMRB*
 
 abstract: During COVID-19 and other pandemics, endotracheal intubation is an
   effective and common method to save patients as the virus causes lung fibrosis
@@ -40,30 +57,15 @@ abstract: During COVID-19 and other pandemics, endotracheal intubation is an
   applications and extend the developed techniques in other general treatments.
 
 # Summary. An optional shortened abstract.
-summary: An robotic solution to avoid cross-infection in COVID-19
-
-date: "2021-08-03T00:00:00Z"
-# Schedule page publish date (NOT publication's date).
-publishDate: "2021-08-03T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types:
-  - "3"
-
-doi: ""
-
-# Publication name and optional abbreviated publication name.
-publication: IEEE Transactions on Medical Robotics and Bionics
-publication_short: In *IEEE TMRB*
+# summary: An robotic solution to avoid cross-infection in COVID-19
 
 tags: []
 
 # Display this page in the Featured widget?
 featured: true
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: ""
   focal_point: ""
@@ -98,7 +100,6 @@ projects:
 # links:
 # - name: Custom Link
 #   url: http://example.org
-
 ---
 
 {{% callout note %}}
